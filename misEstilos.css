@@ -6,7 +6,9 @@ body {
     width: 40%;
     margin: 0 auto;
 }
-
+body{
+    background-color: black;
+}
 .logo img {
     height: 180px;
     width: 180px;

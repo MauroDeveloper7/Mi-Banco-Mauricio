@@ -1,9 +1,9 @@
 {
-    "banco": "Banco de Springfield",
-    "sucursal": "Springfield, IL",    
-    "titular": "Torres Manuel",
-    "nro_cuenta": "1752461/08",    
-    "saldo": [ { "moneda": "USD", "monto": 725.09 }, { "moneda": "EUR", "monto": 195.67} ],
+    "banco": "Banco de Pereira",
+    "sucursal": "Risaralda, Pereira",   
+    "titular": "Iván Mauricio Duque Aricapa",
+    "nro_cuenta": "25555888*****8",    
+    "saldo": [ { "moneda": "USD", "monto": 250000000 }, { "moneda": "USD", "monto": 2000000000} ],
     "cbu": "1562244781396451",
-    "abierto": "01/05/2021"
+    "abierto": "01/00/2024"
 }
